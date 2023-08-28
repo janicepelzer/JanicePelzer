@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hello there, I'm Janice
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website]Hello there, I'm Janice
 <!---
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 
 ### M.Sc. Biochemistry and Data Scientist in Training
 
+- 👩🏻 Pronouns: She/Her
+- 📍 Based in Copenhagen, Denmark / Lake of Constance, Germany
+
 I am a creative an passionate Biochemist, experienced in genetic engineering. As a future Data Scientist am eager to developing my skills to push innovative ideas and work towards a sustainable future. 
 
 - 💻 I’m currently working on becoming a Data Scientist with [neuefische GmbH](https://www.neuefische.de/en)
 - 🌱 I’m looking to collaborate on topics related to Climate Change and Sustainability
 - 💬 Ask me about Molecular Biology, Genetic Engineering, Fluorescence Microscopy, High-Througput Screenings
-- 👩🏻 Pronouns: She/Her
 - 🗣️ Languages: German, English, Spanish, Danish, Chinese (Mandarin)
 
 ## I am excited about 
@@ -35,7 +37,7 @@ I am a creative an passionate Biochemist, experienced in genetic engineering. As
 🧠 ML\
 📊 Data Visualization\
 🧬 Life Science\
-🌎 Sustainability\
+🌎 Sustainability
 
 
 <h2>
