@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hello there, I'm Janice
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Janice
 <!---
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### M.Sc. Biochemistry and Data Scientist in Training
 
-I am a creative an passionate Biochemist, experienced in genetic engineering. As a future Data Scientist am eager to developing my skills to push innovative ideas and work towards a sustainable future. 
+I am a creative an passionate Biochemist. As a future Data Scientist am eager to push innovative ideas and work towards a sustainable future. 
 
 - 💻 I’m currently working on becoming a Data Scientist with [neuefische GmbH](https://www.neuefische.de/en)
 - 🌱 I’m looking to collaborate on topics related to Climate Change and Sustainability
@@ -53,7 +53,7 @@ I am a creative an passionate Biochemist, experienced in genetic engineering. As
   <!-- ! Bokeh -->
   <img height="30" src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&&logo=scipy&logoColor=white" alt="SciPy"/>
   <img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&&logo=scikit-learn&logoColor=white" alt="SciPy"/>
-  <img height="30" src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&&logo=TensorFlow&logoColor=#FF6F00" alt="TensorFlow"/>
+
   <img height="30" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
   <!-- ! DBeaver -->
   <img height="30" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&&logo=VisualStudioCode&logoColor=#007ACC" alt="Visual Studio Code"/>
