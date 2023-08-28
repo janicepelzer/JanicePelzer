@@ -27,8 +27,6 @@ I am a creative an passionate Biochemist. As a future Data Scientist am eager to
 - 💻 I’m currently working on becoming a Data Scientist with [neuefische GmbH](https://www.neuefische.de/en)
 - 🌱 I’m looking to collaborate on topics related to Climate Change and Sustainability
 - 💬 Ask me about Molecular Biology, Genetic Engineering, Fluorescence Microscopy, High-Througput Screenings
-- 👩🏻 Pronouns: She/Her
-- 📍 Based in Copenhagen, Denmark / Lake of Constance, Germany
 - 🗣️ Languages: German, English, Spanish, Danish, Chinese (Mandarin)
 
 ## I am excited about 
